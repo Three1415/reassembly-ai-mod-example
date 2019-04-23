@@ -111,7 +111,7 @@ DEFINE_ENUM(uchar, EExplosive, EXPLOSIVE_FLAGS);
     F(SPIRAL,   1<<1)                               \
     F(WAVE,     1<<2)                               \
     F(CONSTANT, 1<<3)                              \
-    F(ABSOLUTE, 1<<4)                            \
+    F(ABSOLUT, 1<<4)                            \
 
 DEFINE_ENUM(uchar, ESpreadPattern, SPREAD_PATTERN);
 
